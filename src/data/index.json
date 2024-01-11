@@ -1,0 +1,91 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": 
+      "Proficient in html, CSS and javaScript with a focus on ReactJs. Demonstrated skills in responsive web design. Familarity with state management using Redux"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": 
+      "Skilled in Node.js for server-side scripting and Express.js for API development. Experience in integerating MongoDB for secure data management."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": ""
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": ""
+    }
+  ],
+
+
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/mern-app-photo.png",
+      "title": "Social Media App",
+      "description": "Built a robust MERN social media app with secure authentication and responsive design. Excited for future improvements and community engagement",
+      "link": "View In Github"
+    },
+
+
+    {
+      "id": "2",
+      "src": "./img/my-portfolio2.png",
+      "title": "My Portfolio",
+      "description": "this is my first portfolio which is showcasing my  proficiency in React, CSS and Bootstrap. A commitment to ongoing refinement underscore its significance",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/blog-app.png",
+      "title": "Blog App",
+      "description": "Featured a MERN blog app in my portfolio, illustrating adeptness in MongoDB, Express.js, React, and Node.js. Seamlessly crafted for intuitive content management and user engagement.",
+      "link": "View In Github"
+    }
+  ],
+
+
+
+
+
+
+  
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
